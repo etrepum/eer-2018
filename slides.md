@@ -20,42 +20,61 @@ css:
 - Angel Investor & Startup Advisor
 - Current Project: Mission Bit
 
-# Origin Story
+# Lucky Start
 
-- 1981, born the same year as the PC
-- Grew up in a small town in Maryland, but was lucky enough to start with a few big advantages
+<img src="pics/000 - family.jpg">
 
-# Head Start
+# First Computer: PCjr
 
-- Had access to computers, father at IBM and grandfather at RCA
-- Grandfather worked on very early computers and communications equipment
+<img class="full" src="pics/001 - pcjr.gif">
 
 # Games!
 
-- Kings Quest
-- Learned to read and write a bit early so I could play without any help
-- Wanted to know how games worked
+<img class="full" src="pics/002 - kings quest.png">
+
+# {#os2 .no-header}
+
+<video src="vids/os2_cut.mp4" width="100%" height="100%" controls></video>
 
 # BBS era
 
-- Really started learning through the BBS community
-- Still in touch with one of the people I met back then!
-- Downloaded a lot of programming tutorials
-- Also discovered a bit of the "underground" in my quest to
-  get access to more software
-- Learned a lot from the Art and Demo scenes
-- Turbo Pascal, x86 Assembly
+<img class="full" src="pics/003 - modem.jpg">
+
+# BBS era
+
+<img class="full" src="pics/004 - bbs.gif">
+
+# BBS era
+
+<img class="full" src="pics/005 - turbo pascal.jpg">
+
+# Art scene
+
+<video src="vids/ansi.mp4" width="100%" height="100%" controls></video>
+
+# Demo scene
+
+<video src="vids/demo.mp4" width="100%" height="100%" controls></video>
+
+# IRC
+
+<img class="full" src="pics/006 - irc.gif">
 
 # Internet
 
-- Learned a ton from people on IRC
-- Got on the early web and learned HTML
-- Started using Linux *very* early
-- Met some local folks
+<img class="full" src="pics/007 - 1993_mosaic_browser_large.jpeg">
 
 # Don't be afraid to ask
 
 - Hey, are there any internships available at Bethesda Softworks?
+
+# Bethesda Softworks
+
+<img class="full" src="pics/008 - daggerfall.jpeg">
+
+# Bethesda Softworks
+
+<img class="full" src="pics/009 - bethesda-old.jpeg">
 
 # Bethesda Softworks (~1997-1998)
 
@@ -141,9 +160,41 @@ css:
 
 - 
 
+# Erlang
+
+- 
+
 # MochiAds
 
 - 
+
+# Google
+
+# VC
+
+# Margaret
+
+# Series B
+
+# CEO
+
+# No Sale
+
+# SNDA
+
+# Orphaned
+
+# Retire
+
+# Pieceable
+
+# Facebook
+
+# Mission Bit
+
+# Fig
+
+# Mission Bit 2.0
 
 # Thanks!
 

@@ -24,14 +24,26 @@
 .reveal dl dt { text-align: left; font-weight: bold; }
 .reveal dl dd { text-align: left; margin-left: 1.5em; }
 .syntax pre { box-shadow: none; font-size: 1.2em; }
-.reveal img { max-height: 80%; }
+.reveal section img { max-height: 80%; border: none; background: none; box-shadow: none; }
 
 .reveal section pre { box-shadow: none; font-size: 0.6em; }
 .reveal section.small-code pre { font-size: 0.45em; }
 .wide-code pre {  margin-left: -3%; }
 .no-header h1 { display: none; }
 .no-header pre { margin-top: -0.5em; }
-.reveal img.full { max-width: 100%; max-height: 100%; width: 80%; height: auto; }
+
+.reveal .slides section {
+  height: 100%;
+}
+
+.reveal img.full {
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+  width: auto;
+  height: auto;
+  object-fit: cover;
+}
 
 .reveal img.portrait { width: 50%; }
 
@@ -77,11 +89,6 @@ section.present blockquote strong {
   text-align: left;
 }
 
-.reveal .react-slide {
-  width: 100%;
-  height: 100%;
-}
-
 .reveal table.array {
   border: 1px solid black;
 }
@@ -94,4 +101,3 @@ section.present blockquote strong {
   background-color: #ccf;
 }
 
-svg.full { width: 70%; }
