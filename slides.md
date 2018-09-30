@@ -46,13 +46,13 @@ css:
 
 # BBS era
 
-<img class="full" src="pics/005 - turbo pascal.jpg">
+<img class="full" src="pics/005 - turbo pascal.png">
 
-# Art scene
+# {#ansi .no-header}
 
 <video src="vids/ansi.mp4" width="100%" height="100%" controls></video>
 
-# Demo scene
+# {#demo .no-header}
 
 <video src="vids/demo.mp4" width="100%" height="100%" controls></video>
 
@@ -74,43 +74,43 @@ css:
 
 # Bethesda Softworks
 
-<img class="full" src="pics/009 - bethesda-old.jpeg">
+<img class="full" src="pics/009 - bethesda-old.png">
 
-# Bethesda Softworks (~1997-1998)
+# Bethesda Softworks
 
-- Started at 16 years old (second year of high school)
-- First day typed in a stack of registration cards
-- Second day my boss gave me a book on Microsoft Access
-- Learned VBA and built a tech support database (FAQs, call tracking)
-- Also ended up building ordering system, processed credit cards, printed UPS labels
-- Did a lot of IT
-- Gave me a book on Perl and became their webmaster
-- Migrated from website hosted on Solaris to locally hosted Linux
-- Migrated from Lotus CC:Mail to Qmail, IMAP
-- Migrated from Novell Netware to Samba
-- Did a ton of networking with people (several I'm still friends with 20 years later)
-- Learned SQL
-- Started learning JavaScript at the beginning
-- Quit
+<img class="full" src="pics/010 - access 97.gif">
 
-# Vir2L (~1998-2000)
+# Vir2L
 
-- Made some very early DHTML websites
-- Learned Flash
-- Learned Director
-- Met a lot of great folks
-- Started college
-- Quit
+<img class="full" src="pics/011 - vir2l.jpeg">
 
-# WDDG (~2000-2001)
+# Vir2L
 
-- Moved to New York City
-- Learned ASP
-- Learned Python
-- Worked for my future business partner
-- Started contributing to open source (Twisted/Python mostly)
-- Built advergames and websites for brands, record labels, movies, etc.
-- Did a few creative coding collaborations on the side
+<img class="full" src="pics/012 - vir2l peeps.jpg">
+
+# WDDG
+
+<img class="full" src="pics/013 - nyc.jpeg">
+
+# WDDG
+
+<img class="full" src="pics/013 - wddg logo.png">
+
+# WDDG
+
+<img class="full" src="pics/014 - wddg gaming.jpg">
+
+# WDDG
+
+<img class="full" src="pics/015 - wddg jameson.jpg">
+
+# WDDG
+
+<img class="full" src="pics/016 - ultrablock.png">
+
+# Masters of Branding
+
+<img class="full" src="pics/017 - mob.png">
 
 # 2001-09-11
 

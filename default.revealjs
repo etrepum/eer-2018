@@ -80,11 +80,11 @@ $endfor$
 
   <script>
 
+  // TODO https://medium.com/myplanet-musings/building-a-responsive-reveal-js-theme-399179632cc6
+
       // Full list of configuration options available here:
       // https://github.com/hakimel/reveal.js#configuration
       Reveal.initialize({
-        width: 960,
-        height: 700,
         history: true,
         center: false,
         slideNumber: true,
