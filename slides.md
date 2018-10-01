@@ -244,7 +244,21 @@ css:
 
 # Fig
 
-# Mission Bit 2.0
+<img class="full" src="pics/051 - fig.jpg">
+
+# Mission Bit
+
+# Ramsey
+
+<img class="full" src="pics/997 - ramsey.jpg">
+
+# Izzy
+
+<img class="full" src="pics/998 - izzy.jpg">
+
+# Dogs
+
+<img class="full" src="pics/999 - dogs.jpg">
 
 # Thanks!
 
