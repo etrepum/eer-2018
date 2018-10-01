@@ -112,79 +112,129 @@ css:
 
 <img class="full" src="pics/017 - mob.png">
 
-# 2001-09-11
+# Open Source
 
-- We were working on a big alternate reality game project for
-  a brand where you had to find a missing person (the brand's mascot)
-- Fake websites with clues, "missing person" posters all over NYC, etc.
-- Project canceled (for obvious reasons), couldn't get into our offices for a week, etc.
-- Couldn't make payroll and I decided to leave
+<img class="full" src="pics/018 - python ide.jpg">
 
-# Masters of Branding (~2001-2004)
+# Consulting
 
-- Friend from Vir2L was one of the founders (was also my roommate at the time)
-- CTO title
-- Got into Mac OS X and FreeBSD
-- First time I ever managed people
-- First time speaking at conferences (on RFID, Python, etc.)
-- Worked on websites and in-store technology (RFID, kiosks, etc.)
-- Got a bit burnt out and quit
+<img class="full" src="pics/019 - ilingo.jpg">
 
-# Consulting (~2004-2005)
+# Consulting
 
-- Worked on a foreign language phrasebook "app" for iPod
-- Contributed a lot to Python support on the Mac
+<img class="full" src="pics/020 - tp.jpg">
 
 # Mochi Media
 
-- Started in 2005
-- Jameson was in SF, I was in NYC
-- Hot or Not founders were the first angel investors
-- Moved to Maui for the summer as a "compromise"
+<img class="full" src="pics/021 - mochi start-1.jpg">
 
-# MochiBot
+# Mochi Media
 
-- Sort of like Google Analytics for Flash
-- Allowed Flash developers to track their content regardless of what website it was hosted on
-- Developers loved it, and were able to use it as negotiation leverage
-- Was a pretty early "Web 2.0" project, and we built our own tools and open sourced them
+<img class="full" src="pics/021 - mochi start-1.jpg">
 
-# MochiBot Tech (1.0)
+# Hot or not?
 
-- MochiKit (an early JS library, one of the first with comprehensive tests and documentation. Seriously.)
-- simplejson (which became the standard json implementation in Python)
-- MySQL -> PostgreSQL
-- Apache -> Nginx (0.4!)
+<img class="full" src="pics/022 - hotornot.gif">
 
-# MochiBot Scale
+# Mochi Media
 
-- 
+<img class="full" src="pics/023 - servers.jpg">
+
+# Mochi Media
+
+<img class="full" src="pics/024 - hawaii.jpg">
+
+# Mochi Media
+
+<img class="full" src="pics/025 - hawaiiwork.jpg">
+
+# Mochi Media
+
+<img class="full" src="pics/026 - mochibot.png">
+
+# Mochi Media
+
+<img class="full" src="pics/027 - mochikit 2005.png">
+
+# Mochi Media
+
+<img class="full" src="pics/028 - sf.jpeg">
+
+# Mochi Media
+
+<img class="full" src="pics/029 - sfoffice.jpg">
 
 # Erlang
 
-- 
+<img class="full" src="pics/030 - erlang.jpeg">
 
 # MochiAds
 
-- 
+<img class="full" src="pics/031 - mochiads.png">
 
-# Google
+# Sell to Google?
 
-# VC
+<img class="full" src="pics/032 - valuation.jpg">
+
+# Taiwan & China
+
+<img class="full" src="pics/033 - taiwan.jpg">
+
+# Series A
+
+<img class="full" src="pics/034 - mr pickles.jpg">
+
+# Office
+
+<img class="full" src="pics/035 - office birthdays.jpg">
+
+# Office
+
+<img class="full" src="pics/036 - office party.jpg">
 
 # Margaret
 
+<img class="full" src="pics/037 - margaret gdc.jpg">
+
 # Series B
+
+<img class="full" src="pics/038 - mochimedia.png">
+
+# FGS
+
+<img class="full" src="pics/039 - fgs.jpeg">
 
 # CEO
 
+<img class="full" src="pics/040 - ceo.jpeg">
+
 # No Sale
+
+<img class="full" src="pics/041 - no sale.png">
+
+# MochiGames
+
+<img class="full" src="pics/042 - mochigames.png">
 
 # SNDA
 
-# Orphaned
+<img class="full" src="pics/043 - snda.jpg">
 
-# Retire
+# Married
+
+<img class="full" src="pics/044 - married.jpg">
+
+# China
+
+<img class="full" src="pics/045 - sdg office.jpg">
+
+# China
+
+<img class="full" src="pics/046 - mochi china team.jpg">
+
+# "Retire"
+
+<img class="full" src="pics/047 - retire.jpg">
 
 # Pieceable
 
