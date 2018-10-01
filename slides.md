@@ -34,7 +34,7 @@ css:
 
 # {#os2 .no-header}
 
-<video src="vids/os2_cut.mp4" width="100%" height="100%" controls></video>
+<video src="vids/os2_cut.mp4" width="100%" height="100%" controls data-autoplay></video>
 
 # BBS era
 
@@ -50,11 +50,11 @@ css:
 
 # {#ansi .no-header}
 
-<video src="vids/ansi.mp4" width="100%" height="100%" controls></video>
+<video src="vids/ansi.mp4" width="100%" height="100%" controls data-autoplay></video>
 
 # {#demo .no-header}
 
-<video src="vids/demo.mp4" width="100%" height="100%" controls></video>
+<video src="vids/demo.mp4" width="100%" height="100%" controls data-autoplay></video>
 
 # IRC
 
@@ -123,10 +123,6 @@ css:
 # Consulting
 
 <img class="full" src="pics/020 - tp.jpg">
-
-# Mochi Media
-
-<img class="full" src="pics/021 - mochi start-1.jpg">
 
 # Mochi Media
 
@@ -238,7 +234,11 @@ css:
 
 # Pieceable
 
+<img class="full" src="pics/048 - pieceable.png">
+
 # Facebook
+
+<img class="full" src="pics/049 - facebook.png">
 
 # Mission Bit
 
