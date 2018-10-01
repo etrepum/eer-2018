@@ -20,17 +20,36 @@ css:
 - Angel Investor & Startup Advisor
 - Current Project: Mission Bit
 
-# Lucky Start {.img-slide}
+# Lucky Start
 
 <figure><img class="full" src="pics/000 - family.jpg"></figure>
-
-# First Computer: PCjr
-
-<figure><img class="full" src="pics/001 - pcjr.gif"></figure>
+<aside class="notes">
+I grew up in a small town in MD (about 50 km from Washington DC), but was very
+lucky to start off with an easier path than most to programming. My father worked
+at IBM and my mom's father worked at RCA doing electrical engineering and
+programming. Some of what he did was classified work for NASA and the NSA
+and I never could get him to tell me too much about that :)
+</aside>
 
 # Games!
 
 <figure><img class="full" src="pics/002 - kings quest.png"></figure>
+<aside class="notes">
+The real hook to get me into computers was games. One of my early favorites was
+the first Kings Quest. That style of adventure game would let you walk about
+with the arrow keys, but you needed to read and write sentences to interact,
+so at first I needed a bit of help.
+</aside>
+
+# First Computer: PCjr
+
+<figure><img class="full" src="pics/001 - pcjr.gif"></figure>
+<aside class="notes">
+This was the first computer we had in our house. Back then most computers
+came with a BASIC interpreter, this one actually had it on a cartridge.
+Some of my first programming experiences was typing in the code from
+magazines at the time and hoping I didn't make a mistake.
+</aside>
 
 # {#os2 .no-header}
 
@@ -39,14 +58,27 @@ css:
 # BBS era
 
 <figure><img class="full" src="pics/003 - modem.jpg"></figure>
+<aside class="notes">
+I really started learning a lot faster when we got a modem and I was able to
+connect with other people. The internet wasn't commercially available back then,
+but you could dial up to other people's computers, have discussions, play games,
+and share files.
+</aside>
 
 # BBS era
 
 <figure><img class="full" src="pics/004 - bbs.gif"></figure>
+<aside class="notes">
+I was again lucky to find a local BBS with a few other people who were interested
+in programming. One of which was about my age and lived in the same town, which
+was super cool. We're still friends even though it's been about 25 years!
+</aside>
 
 # BBS era
 
 <figure><img class="full" src="pics/005 - turbo pascal.png"></figure>
+<aside class="notes">
+</aside>
 
 # {#ansi .no-header}
 

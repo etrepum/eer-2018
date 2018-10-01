@@ -94,6 +94,7 @@ $endfor$
         minScale: 1,
         maxScale: 1,
         slideNumber: true,
+        defaultTiming: 30,
         theme: $if(theme)$'$theme$'$else$Reveal.getQueryHash().theme$endif$, // available themes are in /css/theme
         transition: $if(transition)$'$transition$'$else$Reveal.getQueryHash().transition || 'default'$endif$, // default/cube/page/concave/zoom/linear/fade/none
 
