@@ -242,11 +242,15 @@ css:
 
 # Mission Bit
 
+<img class="full" src="pics/050 - mbit.jpg">
+
 # Fig
 
 <img class="full" src="pics/051 - fig.jpg">
 
 # Mission Bit
+
+<img class="full" src="pics/052 - mbit demo day.jpg">
 
 # Ramsey
 
