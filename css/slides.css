@@ -8,96 +8,66 @@
   text-transform: none;
 }
 
-#title h3 { line-height: 1.25em; }
+#title h3 { line-height: 1.25rem; }
 
-.reveal section h1 { margin-bottom: 30px; font-size: 2.25em; }
-.reveal section.small-title h1 { font-size: 2em; }
-.reveal section.tiny-title h1 { font-size: 1.5em; }
+.reveal section h1 { margin-bottom: 1rem; font-size: 5rem; }
+.reveal section.small-title h1 { font-size: 2rem; }
+.reveal section.tiny-title h1 { font-size: 1.5rem; }
 
-.reveal ul { display: block; margin-left: 1em; }
+.reveal ul { display: block; margin-left: 1rem; }
 
-.reveal .large-quote { font-size: 2.5em; line-height: 1em; }
-#paradox dd { text-align: right; }
+.reveal .large-quote { font-size: 2.5rem; line-height: 1rem; }
 
-.reveal li { margin-bottom: 0.5em; }
-.reveal dl { width: 100%; }
-.reveal dl dt { text-align: left; font-weight: bold; }
-.reveal dl dd { text-align: left; margin-left: 1.5em; }
-.syntax pre { box-shadow: none; font-size: 1.2em; }
+.reveal li { margin-bottom: 0.5rem; }
 .reveal section img { max-height: 80%; border: none; background: none; box-shadow: none; }
 
-.reveal section pre { box-shadow: none; font-size: 0.6em; }
-.reveal section.small-code pre { font-size: 0.45em; }
-.wide-code pre {  margin-left: -3%; }
 .no-header h1 { display: none; }
-.no-header pre { margin-top: -0.5em; }
+
+.grid-center {
+  justify-self: center;
+  align-self: center;
+}
+
+section.center-content > * {
+  justify-self: center;
+  align-self: center;
+}
+
+.reveal .slides section.no-header {
+  grid-template-rows: auto;
+  align-items: center;
+  justify-items: center;
+
+}
 
 .reveal .slides section {
+  box-sizing: border-box;
   height: 100%;
+  max-height: 100%;
+  padding: 3vmin;
+  display: grid;
+  grid-template-rows: 6rem auto;
+}
+
+.reveal .slides section.title-section {
+  grid-template-rows: auto;
+  justify-content: center;
+  align-content: center;
+}
+
+.reveal .slides figure {
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: auto;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 .reveal img.full {
   max-width: 100%;
   max-height: 100%;
+  width: 100%;
   margin: auto;
-  width: auto;
   height: auto;
-  object-fit: cover;
+  object-fit: contain;
 }
-
-.reveal img.portrait { width: 50%; }
-
-section blockquote strong {
-  background-color: rgba(255,255,255,0);
-}
-
-section.present blockquote strong {
-  transition: background-color 5s;
-  background-color: rgba(255,251,204,0.5);
-}
-
-.highlight .hl,
-.highlight-type .hl-type,
-.highlight-constructor .hl-constructor {
-  background-color: #ffff00;
-}
-.highlight .hl1 {
-  background-color: #eeee00;
-}
-.highlight .hl2 {
-  background-color: #dddd00;
-}
-
-.reveal blockquote {
-  margin-top: 1em;
-  box-shadow: none;
-  width: 80%;
-  text-align: left;
-}
-
-.reveal blockquote footer {
-  text-align: right;
-  font-size: 0.6em;
-  margin-top: 1em;
-}
-
-.reveal pre code {
-  max-height: inherit;
-}
-
-.left {
-  text-align: left;
-}
-
-.reveal table.array {
-  border: 1px solid black;
-}
-
-.reveal table.array td {
-  border: 1px solid black;
-}
-
-.reveal .array .shared td {
-  background-color: #ccf;
-}
-

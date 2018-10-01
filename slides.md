@@ -12,7 +12,7 @@ css:
 - css/slides.css
 ---
 
-# Who am I?
+# Who am I? {.center-content}
 
 - Self-taught programmer
 - Open source contributor (Python, JS, Erlang, Haskell)
@@ -20,17 +20,17 @@ css:
 - Angel Investor & Startup Advisor
 - Current Project: Mission Bit
 
-# Lucky Start
+# Lucky Start {.img-slide}
 
-<img src="pics/000 - family.jpg">
+<figure><img class="full" src="pics/000 - family.jpg"></figure>
 
 # First Computer: PCjr
 
-<img class="full" src="pics/001 - pcjr.gif">
+<figure><img class="full" src="pics/001 - pcjr.gif"></figure>
 
 # Games!
 
-<img class="full" src="pics/002 - kings quest.png">
+<figure><img class="full" src="pics/002 - kings quest.png"></figure>
 
 # {#os2 .no-header}
 
@@ -38,15 +38,15 @@ css:
 
 # BBS era
 
-<img class="full" src="pics/003 - modem.jpg">
+<figure><img class="full" src="pics/003 - modem.jpg"></figure>
 
 # BBS era
 
-<img class="full" src="pics/004 - bbs.gif">
+<figure><img class="full" src="pics/004 - bbs.gif"></figure>
 
 # BBS era
 
-<img class="full" src="pics/005 - turbo pascal.png">
+<figure><img class="full" src="pics/005 - turbo pascal.png"></figure>
 
 # {#ansi .no-header}
 
@@ -58,211 +58,211 @@ css:
 
 # IRC
 
-<img class="full" src="pics/006 - irc.gif">
+<figure><img class="full" src="pics/006 - irc.gif"></figure>
 
 # Internet
 
-<img class="full" src="pics/007 - 1993_mosaic_browser_large.jpeg">
+<figure><img class="full" src="pics/007 - 1993_mosaic_browser_large.jpeg"></figure>
 
 # Don't be afraid to ask
 
-- Hey, are there any internships available at Bethesda Softworks?
+<h2 class="grid-center">Hey, are there any internships available at Bethesda Softworks?</h2>
 
 # Bethesda Softworks
 
-<img class="full" src="pics/008 - daggerfall.jpeg">
+<figure><img class="full" src="pics/008 - daggerfall.jpeg"></figure>
 
 # Bethesda Softworks
 
-<img class="full" src="pics/009 - bethesda-old.png">
+<figure><img class="full" src="pics/009 - bethesda-old.png"></figure>
 
 # Bethesda Softworks
 
-<img class="full" src="pics/010 - access 97.gif">
+<figure><img class="full" src="pics/010 - access 97.gif"></figure>
 
 # Vir2L
 
-<img class="full" src="pics/011 - vir2l.jpeg">
+<figure><img class="full" src="pics/011 - vir2l.jpeg"></figure>
 
 # Vir2L
 
-<img class="full" src="pics/012 - vir2l peeps.jpg">
+<figure><img class="full" src="pics/012 - vir2l peeps.jpg"></figure>
 
 # WDDG
 
-<img class="full" src="pics/013 - nyc.jpeg">
+<figure><img class="full" src="pics/013 - nyc.jpeg"></figure>
 
 # WDDG
 
-<img class="full" src="pics/013 - wddg logo.png">
+<figure><img class="full" src="pics/013 - wddg logo.png"></figure>
 
 # WDDG
 
-<img class="full" src="pics/014 - wddg gaming.jpg">
+<figure><img class="full" src="pics/014 - wddg gaming.jpg"></figure>
 
 # WDDG
 
-<img class="full" src="pics/015 - wddg jameson.jpg">
+<figure><img class="full" src="pics/015 - wddg jameson.jpg"></figure>
 
 # WDDG
 
-<img class="full" src="pics/016 - ultrablock.png">
+<figure><img class="full" src="pics/016 - ultrablock.png"></figure>
 
 # Masters of Branding
 
-<img class="full" src="pics/017 - mob.png">
+<figure><img class="full" src="pics/017 - mob.png"></figure>
 
 # Open Source
 
-<img class="full" src="pics/018 - python ide.jpg">
+<figure><img class="full" src="pics/018 - python ide.jpg"></figure>
 
 # Consulting
 
-<img class="full" src="pics/019 - ilingo.jpg">
+<figure><img class="full" src="pics/019 - ilingo.jpg"></figure>
 
 # Consulting
 
-<img class="full" src="pics/020 - tp.jpg">
+<figure><img class="full" src="pics/020 - tp.jpg"></figure>
 
 # Mochi Media
 
-<img class="full" src="pics/021 - mochi start-1.jpg">
+<figure><img class="full" src="pics/021 - mochi start-1.jpg"></figure>
 
 # Hot or not?
 
-<img class="full" src="pics/022 - hotornot.gif">
+<figure><img class="full" src="pics/022 - hotornot.gif"></figure>
 
 # Mochi Media
 
-<img class="full" src="pics/023 - servers.jpg">
+<figure><img class="full" src="pics/023 - servers.jpg"></figure>
 
 # Mochi Media
 
-<img class="full" src="pics/024 - hawaii.jpg">
+<figure><img class="full" src="pics/024 - hawaii.jpg"></figure>
 
 # Mochi Media
 
-<img class="full" src="pics/025 - hawaiiwork.jpg">
+<figure><img class="full" src="pics/025 - hawaiiwork.jpg"></figure>
 
 # Mochi Media
 
-<img class="full" src="pics/026 - mochibot.png">
+<figure><img class="full" src="pics/026 - mochibot.png"></figure>
 
 # Mochi Media
 
-<img class="full" src="pics/027 - mochikit 2005.png">
+<figure><img class="full" src="pics/027 - mochikit 2005.png"></figure>
 
 # Mochi Media
 
-<img class="full" src="pics/028 - sf.jpeg">
+<figure><img class="full" src="pics/028 - sf.jpeg"></figure>
 
 # Mochi Media
 
-<img class="full" src="pics/029 - sfoffice.jpg">
+<figure><img class="full" src="pics/029 - sfoffice.jpg"></figure>
 
 # Erlang
 
-<img class="full" src="pics/030 - erlang.jpeg">
+<figure><img class="full" src="pics/030 - erlang.jpeg"></figure>
 
 # MochiAds
 
-<img class="full" src="pics/031 - mochiads.png">
+<figure><img class="full" src="pics/031 - mochiads.png"></figure>
 
 # Sell to Google?
 
-<img class="full" src="pics/032 - valuation.jpg">
+<figure><img class="full" src="pics/032 - valuation.jpg"></figure>
 
 # Taiwan & China
 
-<img class="full" src="pics/033 - taiwan.jpg">
+<figure><img class="full" src="pics/033 - taiwan.jpg"></figure>
 
 # Series A
 
-<img class="full" src="pics/034 - mr pickles.jpg">
+<figure><img class="full" src="pics/034 - mr pickles.jpg"></figure>
 
 # Office
 
-<img class="full" src="pics/035 - office birthdays.jpg">
+<figure><img class="full" src="pics/035 - office birthdays.jpg"></figure>
 
 # Office
 
-<img class="full" src="pics/036 - office party.jpg">
+<figure><img class="full" src="pics/036 - office party.jpg"></figure>
 
 # Margaret
 
-<img class="full" src="pics/037 - margaret gdc.jpg">
+<figure><img class="full" src="pics/037 - margaret gdc.jpg"></figure>
 
 # Series B
 
-<img class="full" src="pics/038 - mochimedia.png">
+<figure><img class="full" src="pics/038 - mochimedia.png"></figure>
 
 # FGS
 
-<img class="full" src="pics/039 - fgs.jpeg">
+<figure><img class="full" src="pics/039 - fgs.jpeg"></figure>
 
 # CEO
 
-<img class="full" src="pics/040 - ceo.jpeg">
+<figure><img class="full" src="pics/040 - ceo.jpeg"></figure>
 
 # No Sale
 
-<img class="full" src="pics/041 - no sale.png">
+<figure><img class="full" src="pics/041 - no sale.png"></figure>
 
 # MochiGames
 
-<img class="full" src="pics/042 - mochigames.png">
+<figure><img class="full" src="pics/042 - mochigames.png"></figure>
 
 # SNDA
 
-<img class="full" src="pics/043 - snda.jpg">
+<figure><img class="full" src="pics/043 - snda.jpg"></figure>
 
 # Married
 
-<img class="full" src="pics/044 - married.jpg">
+<figure><img class="full" src="pics/044 - married.jpg"></figure>
 
 # China
 
-<img class="full" src="pics/045 - sdg office.jpg">
+<figure><img class="full" src="pics/045 - sdg office.jpg"></figure>
 
 # China
 
-<img class="full" src="pics/046 - mochi china team.jpg">
+<figure><img class="full" src="pics/046 - mochi china team.jpg"></figure>
 
 # "Retire"
 
-<img class="full" src="pics/047 - retire.jpg">
+<figure><img class="full" src="pics/047 - retire.jpg"></figure>
 
 # Pieceable
 
-<img class="full" src="pics/048 - pieceable.png">
+<figure><img class="full" src="pics/048 - pieceable.png"></figure>
 
 # Facebook
 
-<img class="full" src="pics/049 - facebook.png">
+<figure><img class="full" src="pics/049 - facebook.png"></figure>
 
 # Mission Bit
 
-<img class="full" src="pics/050 - mbit.jpg">
+<figure><img class="full" src="pics/050 - mbit.jpg"></figure>
 
 # Fig
 
-<img class="full" src="pics/051 - fig.jpg">
+<figure><img class="full" src="pics/051 - fig.jpg"></figure>
 
 # Mission Bit
 
-<img class="full" src="pics/052 - mbit demo day.jpg">
+<figure><img class="full" src="pics/052 - mbit demo day.jpg"></figure>
 
 # Ramsey
 
-<img class="full" src="pics/997 - ramsey.jpg">
+<figure><img class="full" src="pics/997 - ramsey.jpg"></figure>
 
 # Izzy
 
-<img class="full" src="pics/998 - izzy.jpg">
+<figure><img class="full" src="pics/998 - izzy.jpg"></figure>
 
 # Dogs
 
-<img class="full" src="pics/999 - dogs.jpg">
+<figure><img class="full" src="pics/999 - dogs.jpg"></figure>
 
 # Thanks!
 

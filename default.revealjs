@@ -48,7 +48,7 @@ $endfor$
     <div class="slides">
 
 $if(title)$
-<section>
+<section class="title-section">
     <h1 class="title">$title$</h1>
 $if(subtitle)$
   <h1 class="subtitle">$subtitle$</h1>
@@ -87,6 +87,12 @@ $endfor$
       Reveal.initialize({
         history: true,
         center: false,
+        display: "grid",
+        margin: 0,
+        width: "100%",
+        height: "100%",
+        minScale: 1,
+        maxScale: 1,
         slideNumber: true,
         theme: $if(theme)$'$theme$'$else$Reveal.getQueryHash().theme$endif$, // available themes are in /css/theme
         transition: $if(transition)$'$transition$'$else$Reveal.getQueryHash().transition || 'default'$endif$, // default/cube/page/concave/zoom/linear/fade/none
