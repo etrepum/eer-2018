@@ -331,9 +331,6 @@ back to the Python community.
 # Mochi Media
 
 <figure><img class="full" src="pics/021 - mochi start-1.jpg"></figure>
-<aside class="notes">
-
-</aside>
 
 # Hot or not?
 
@@ -342,10 +339,6 @@ back to the Python community.
 # Mochi Media
 
 <figure><img class="full" src="pics/023 - servers.jpg"></figure>
-
-# Mochi Media
-
-<figure><img class="full" src="pics/024 - hawaii.jpg"></figure>
 
 # Mochi Media
 
@@ -362,10 +355,6 @@ back to the Python community.
 # Mochi Media
 
 <figure><img class="full" src="pics/028 - sf.jpeg"></figure>
-
-# Mochi Media
-
-<figure><img class="full" src="pics/029 - sfoffice.jpg"></figure>
 
 # Erlang
 
