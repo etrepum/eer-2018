@@ -31,6 +31,7 @@ programming. Some of what he did was classified work for NASA and the NSA
 and I never could get him to tell me too much about that :)
 </aside>
 
+<!---
 # Games!
 
 <figure><img class="full" src="pics/002 - kings quest.png"></figure>
@@ -50,11 +51,13 @@ came with a BASIC interpreter, this one actually had it on a cartridge.
 Some of my first programming experiences was typing in the code from
 magazines at the time and hoping I didn't make a mistake.
 </aside>
+-->
 
 # {#os2 .no-header}
 
 <video src="vids/os2_cut.mp4" width="100%" height="100%" controls data-autoplay></video>
 
+<!---
 # BBS era
 
 <figure><img class="full" src="pics/003 - modem.jpg"></figure>
@@ -64,6 +67,7 @@ connect with other people. The internet wasn't commercially available back then,
 but you could dial up to other people's computers, have discussions, play games,
 and share files.
 </aside>
+-->
 
 # BBS era
 
@@ -91,6 +95,7 @@ an ANSi drawing made only with text mode characters. Animations and scrolling
 with this type of art actually depended on how slow modems were at the time.
 </aside>
 
+<!---
 # {#demo .no-header}
 
 <video src="vids/demo.mp4" width="100%" height="100%" controls data-autoplay></video>
@@ -99,6 +104,7 @@ The demo scene took it to the next level, with
 audiovisual experiences that seemed impossible given the
 technology at the time.
 </aside>
+-->
 
 # IRC
 
@@ -119,7 +125,7 @@ was much simpler, we didn't have JavaScript or CSS at the time!
 
 # Don't be afraid to ask
 
-<h2 class="grid-center">Hey, are there any internships available at Bethesda Softworks?</h2>
+<h2 class="grid-center">Hey, are there any internships available<br /> at Bethesda Softworks?</h2>
 <aside class="notes">
 As far as I know, Bethesda Softworks never published an opening
 for an internship, but I met someone on IRC who worked there
@@ -408,10 +414,6 @@ back to the Python community.
 # No Sale
 
 <figure><img class="full" src="pics/041 - no sale.png"></figure>
-
-# MochiGames
-
-<figure><img class="full" src="pics/042 - mochigames.png"></figure>
 
 # SNDA
 
