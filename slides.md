@@ -78,87 +78,256 @@ was super cool. We're still friends even though it's been about 25 years!
 
 <figure><img class="full" src="pics/005 - turbo pascal.png"></figure>
 <aside class="notes">
+I learned a ton from tutorials, mostly Pascal and x86 assembly language.
 </aside>
 
 # {#ansi .no-header}
 
 <video src="vids/ansi.mp4" width="100%" height="100%" controls data-autoplay></video>
+<aside class="notes">
+The art and creative coding scenes at the time were a huge inspiration to me.
+They were able to create truly impressive work under the constraints. This is
+an ANSi drawing made only with text mode characters. Animations and scrolling
+with this type of art actually depended on how slow modems were at the time.
+</aside>
 
 # {#demo .no-header}
 
 <video src="vids/demo.mp4" width="100%" height="100%" controls data-autoplay></video>
+<aside class="notes">
+The demo scene took it to the next level, with
+audiovisual experiences that seemed impossible given the
+technology at the time.
+</aside>
 
 # IRC
 
 <figure><img class="full" src="pics/006 - irc.gif"></figure>
+<aside class="notes">
+I was on the internet pretty early and the communities on IRC and
+news groups really helped me learn a lot more and make some
+important connections.
+</aside>
 
 # Internet
 
 <figure><img class="full" src="pics/007 - 1993_mosaic_browser_large.jpeg"></figure>
+<aside class="notes">
+Being around for the early web was also helpful. The early 90s web
+was much simpler, we didn't have JavaScript or CSS at the time!
+</aside>
 
 # Don't be afraid to ask
 
 <h2 class="grid-center">Hey, are there any internships available at Bethesda Softworks?</h2>
+<aside class="notes">
+As far as I know, Bethesda Softworks never published an opening
+for an internship, but I met someone on IRC who worked there
+and she got me an interview. Having a job in the tech industry
+when I was 16 really gave me a big head start.
+</aside>
 
 # Bethesda Softworks
 
 <figure><img class="full" src="pics/008 - daggerfall.jpeg"></figure>
-
-# Bethesda Softworks
-
-<figure><img class="full" src="pics/009 - bethesda-old.png"></figure>
+<aside class="notes">
+My internship at Bethsoft was in the days where their games were all
+written for DOS. Windows 95 had recently come out and there were tons
+of compatibility issues to sort out.
+</aside>
 
 # Bethesda Softworks
 
 <figure><img class="full" src="pics/010 - access 97.gif"></figure>
+<aside class="notes">
+One of the first programming projects I was assigned to was
+building a tech support call tracking system that also had
+a database of FAQs.
+
+Later on it grew to also take orders, process credit cards, and
+print shipping labels. I can't imagine giving such responsibility
+to a teenager with no training and no code review, but I was
+very lucky to have the opportunity to learn!
+</aside>
+
+# Bethesda Softworks
+
+<figure><img class="full" src="pics/009 - bethesda-old.png"></figure>
+<aside class="notes">
+I learned how to do a lot of their IT, migrating email
+and file sharing from Lotus and Novell to Linux based solutions.
+I also migrated their web hosting from Solaris to a self-hosted
+Linux solution (we had a T1 at the time!) and built some pretty
+ugly web sites.
+</aside>
 
 # Vir2L
 
 <figure><img class="full" src="pics/011 - vir2l.jpeg"></figure>
+<aside class="notes">
+Not too long after I learned how tremendously underpaid I was
+for the work I was doing, I decided to quit so I could get
+another job or focus on school. I packed up all of
+my stuff and put it in the car.
+
+In the parking lot I ran into someone who worked across
+the hall at Vir2L, a design firm that was also part of
+Zenimax, the parent company of Bethesda Softworks. He encouraged
+me to interview there, and I got the job for twice as much
+as I was making. Still not exactly competitive, but I was 
+happy to be making that kind of money in high school while
+living with my parents.
+</aside>
 
 # Vir2L
 
 <figure><img class="full" src="pics/012 - vir2l peeps.jpg"></figure>
+<aside class="notes">
+It was much easier to get a 1099-B Visa in the US at the time
+and Vir2L took advantage of that. I became friends with super
+talented people from all over the world, and that personal
+network really helped me establish myself.
+
+Vir2L was a "new media" design firm, which at the time meant
+that we mostly made websites. We also worked on some CD-ROM
+projects and web games with Flash and Director.
+</aside>
 
 # WDDG
 
 <figure><img class="full" src="pics/013 - nyc.jpeg"></figure>
+<aside class="notes">
+I had always wanted to live in a big city and New York was
+top of my list. When one of my Vir2L colleagues left for a
+firm in NYC and encouraged me to apply, I did. I got the job,
+nearly doubling my salary again, and ended up quitting university
+as well (I had only done two semesters at that point).
+
+I really knew leaving Zenimax was the right choice for me
+when they threatened to sue me if I didn't finish the
+project I was working on at the time. I was only 18 years old!
+It was a silly avoid the cameras stealth game to promote the
+Big Brother television show in Europe. I did finish it
+on time.
+
+Coincidentally, again in the parking lot for Zenimax, I
+discovered that a colleague of mine was also planning to
+leave Vir2L to move to New York. We ended up becoming
+roommates for the first two years we were in New York.
+</aside>
 
 # WDDG
 
 <figure><img class="full" src="pics/013 - wddg logo.png"></figure>
+<aside class="notes">
+WDDG, the World Domination Design Group, was the firm
+I went to in NYC. We also had interesting projects,
+and much nicer management.
+</aside>
 
 # WDDG
 
 <figure><img class="full" src="pics/014 - wddg gaming.jpg"></figure>
+<aside class="notes">
+Pretty much all of us were very young gamers and we spent
+a lot of time hanging out in the office even when we weren't
+working. Later on the company basically had their own video
+game museum!
+</aside>
 
 # WDDG
 
 <figure><img class="full" src="pics/015 - wddg jameson.jpg"></figure>
+<aside class="notes">
+Speaking of management, one of the founders of WDDG was
+Jameson Hsu. We worked really well together and ended up
+starting a company a few years down the road.
+</aside>
 
 # WDDG
 
 <figure><img class="full" src="pics/016 - ultrablock.png"></figure>
+<aside class="notes">
+We really liked building web games at WDDG, this was a
+matching game we made for the brand Corn Nuts. It was hard
+to get paid for this kind of work at the time unless it was
+commissioned for a brand.
+
+I only ended up spending a little more than a year at WDDG.
+At the time the whole company was building an alternate reality
+game for our largest client. It was a scavenger hunt to
+find the company's missing mascot, which included hiding
+clues on fake websites and putting "Missing Person" posters
+all over New York. Just a few weeks before launch, on
+September 11th, 2001, there was a terrorist attack on the
+World Trade Center. The office was just close enough
+to the site that we weren't allowed to go there for a week.
+There were real missing person posters. Thousands of people
+died. Not surprisingly, the client canceled the project,
+which left WDDG in a bad situation financially. The company
+survived, but employees would have go to without salary
+until the next project. I decided to move on.
+</aside>
 
 # Masters of Branding
 
 <figure><img class="full" src="pics/017 - mob.png"></figure>
+<aside class="notes">
+My roommate at the time was starting a company at the time
+and needed someone to lead their technology efforts,
+so I joined as CTO. Not a bad title for a 20 year old!
+
+At Masters of Branding, or "the MOB", we worked on
+advertising projects for brands in retail locations
+and online. We got to build some interesting kiosks
+and prototype a few RFID projects very early on.
+</aside>
 
 # Open Source
 
 <figure><img class="full" src="pics/018 - python ide.jpg"></figure>
+<aside class="notes">
+During this time I learned Python
+(which really refreshing after a few years with Perl!),
+and started contributing to open source.
+
+While I didn't have a lot of mentors at work, I did in
+the open source world. The Python community in particular
+was very welcoming to me and I learned so much from them.
+</aside>
 
 # Consulting
 
 <figure><img class="full" src="pics/019 - ilingo.jpg"></figure>
+<aside class="notes">
+I got a bit burnt out working at Masters of Branding and
+deicded to do consulting projects for a while. I wasn't
+very good at this, but the most notable thing was called
+iLingo. We made a suite of "apps" for iPods before iPods
+even had apps.
+
+We managed to make a boxed retail version and it was sold
+at Apple stores for a time!
+</aside>
 
 # Consulting
 
 <figure><img class="full" src="pics/020 - tp.jpg"></figure>
+<aside class="notes">
+You could upload a set of "Notes" XML files to the device
+that linked to other notes and audio files, so I wrote
+the software to build those files from spreadsheets and
+an installer for both Mac and Windows. It was all written
+in Python and I contributed a lot of the infrastructure
+back to the Python community.
+</aside>
 
 # Mochi Media
 
 <figure><img class="full" src="pics/021 - mochi start-1.jpg"></figure>
+<aside class="notes">
+
+</aside>
 
 # Hot or not?
 
