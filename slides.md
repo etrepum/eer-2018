@@ -379,10 +379,6 @@ back to the Python community.
 
 <figure><img class="full" src="pics/032 - valuation.jpg"></figure>
 
-# Taiwan & China
-
-<figure><img class="full" src="pics/033 - taiwan.jpg"></figure>
-
 # Series A
 
 <figure><img class="full" src="pics/034 - mr pickles.jpg"></figure>
